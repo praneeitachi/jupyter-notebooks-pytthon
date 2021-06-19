@@ -1,0 +1,1 @@
+value="we are using mymodule"

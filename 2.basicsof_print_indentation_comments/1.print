@@ -1,0 +1,8 @@
+# print function is used to print the value given to it same as echo
+print("hello world")
+
+#printing multiple lines
+print("hello")
+print("my name is")
+print("praneeth")
+# it executes one by one 

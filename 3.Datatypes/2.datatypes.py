@@ -1,0 +1,16 @@
+x=10
+print(str(x))
+x=10.5
+print(int(x))
+x="string"
+print(bool(x))
+x=""
+print(bool(x))
+x=1
+print(bool(x))
+x=0
+print(bool(x))
+x=True
+print(int(x))
+x=False
+print(int(x))

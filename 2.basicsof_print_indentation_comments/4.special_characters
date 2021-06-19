@@ -1,0 +1,9 @@
+print("hello this is praneeth")
+print("hello! \nthis is praneeth")
+print("hello World")
+print("hello \bWorld")
+#in idle it wont execute but in terminal it will work
+print("hello \tWorld")
+print("python's class")
+print('python\'s class')
+print("c:\\path\\python")

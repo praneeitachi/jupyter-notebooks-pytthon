@@ -1,0 +1,17 @@
+# its a simple script for arithmetic operation using variales
+# author: praneeth
+# email: ravi.praneeth1@gmail.com
+'''
+its a simple script for arithmetic operation using variales
+author: praneeth
+email: ravi.praneeth1@gmail.com
+'''
+"""
+its a simple script for arithmetic operation using variales
+author: praneeth
+email: ravi.praneeth1@gmail.com
+"""
+a=10
+b=20
+result=a+b
+print(f"the sum of {a} and {b} is : {result}")
